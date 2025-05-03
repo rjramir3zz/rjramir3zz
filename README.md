@@ -1,7 +1,11 @@
 # Hi there, I'm Raoul John (RJ) Ramirez! 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, problem solver, and lifelong learner who loves to explore new technologies and build impactful projects.
 **IT Operations Manager | IT Leader | Cloud & Infrastructure Expert**
+
+Welcome to my GitHub profile! A passionate leader, problem solver, and lifelong learner who loves to explore new technologies and build impactful projects.
+
+With 10+ years of experience across IT service delivery, infrastructure, and digital transformation, I lead teams, streamline operations, and build reliable systems for business growth. I specialize in creating value through process automation, cloud adoption, and scalable tech solutions.
+
 
 
 ## 🔧 Tech Stack & Skills
