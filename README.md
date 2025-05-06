@@ -3,6 +3,7 @@
 ## 📝 Head of IT Operations | Service Delivery Cloud & Infrastructure | Strategic Leadership
 
 -Welcome to my GitHub profile! A passionate & Innovative IT leader with a strong background in managing IT Operations, complex projects and optimizing cloud infrastructures.
+
 -Proven ability to align IT strategies with business goals, ensuring seamless operations and continuous improvements, problem solver, and lifelong learner who loves to explore new technologies and build impactful projects & Innovations.
 
 -With 15+ years of experience across IT service delivery, infrastructure, and digital transformation, I lead teams, streamline operations, and build reliable systems for business growth. I specialize in creating value through process automation, cloud adoption, and scalable tech solutions.
